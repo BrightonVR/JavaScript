@@ -17,3 +17,4 @@ var auto = {
 };
 
 console.log(auto.kleur);
+console.log("Hello World!");
