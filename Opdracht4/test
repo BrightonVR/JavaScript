@@ -1,0 +1,5 @@
+slideholder.style.backgroundImage = "url('img/aap' + current + '.jpg')";
+        current++;
+        if (current == 9) {
+            current = 1;
+        }
